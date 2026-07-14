@@ -65,10 +65,26 @@ In the creation of the new ticket I will use a fake end user called "karen". In 
 <h2></h2>
 
 <p>
-<img height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/68f5519d-0a2b-4d6c-a271-5be49e4f4af9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+In the Admin login (http://localhost/osTicket/scp/login.php) we are going to login as john as a help desk agent. If you can't login as john look at the previous tutorial.
+</p>
+<br />
 
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/ff154504-cf17-4269-a7e6-0c82bead9fab" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/87524f2c-e08e-434d-a28e-c693a2377c91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/8cc7a793-b995-4902-9ac5-19ba057a7b70" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open the most recent ticket. Observe the properties of the ticket (Priotity, Department, SLA, etc.). Notice john is in "read only" mode and can't do much except make an internal note. Feel free to leave a note, but its not necessary for the rest of this scenerio.
 </p>
 <br />
 
