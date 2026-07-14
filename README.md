@@ -94,10 +94,10 @@ Open the most recent ticket. Observe the properties of the ticket (Priority, Dep
 <img src="https://github.com/user-attachments/assets/ed64ca16-2289-4b49-a5d0-9ac7bc307dd6" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/06578b10-455a-40f9-ab76-ca9094055a5d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+We now want to give John permissions to do more with the ticket. In the Admin Login page log back in as "adminuser". Navigate to Agent Panel -> Agents -> Agents -> John Doe -> Access. Give John "All access" and save changes.
 </p>
 <br />
 
