@@ -84,7 +84,7 @@ In the Admin login (http://localhost/osTicket/scp/login.php) we are going to log
 <img src="https://github.com/user-attachments/assets/8cc7a793-b995-4902-9ac5-19ba057a7b70" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open the most recent ticket. Observe the properties of the ticket (Priotity, Department, SLA, etc.). Notice john is in "read only" mode and can't do much except make an internal note. Feel free to leave a note, but its not necessary for the rest of this scenario.
+Open the most recent ticket. Observe the properties of the ticket (Priority, Department, SLA, etc.). Notice john is in "read only" mode and can't do much except make an internal note. Feel free to leave a note, but its not necessary for the rest of this scenario.
 </p>
 <br />
 
