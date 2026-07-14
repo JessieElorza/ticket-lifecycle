@@ -58,7 +58,7 @@ Open a new page for the end users. Once link is copied and pasted into the URL i
 <img src="https://github.com/user-attachments/assets/670560fc-6a18-4f1f-a81a-f06ab51a8b27" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the creation of the new ticket I will use a fake end user called "karen". In the ticket as karen select the help topic as "General Inquiry / Other" (It should be business critical outage, but it will be adjusted when observing the ticket as a support agent). Enter the clients scenerio in the summary. Submit the ticket. Note: The email being used is fake and only for this tutorial.
+In the creation of the new ticket I will use a fake end user called "karen". In the ticket as karen select the help topic as "General Inquiry / Other" (It should be business critical outage, but it will be adjusted when observing the ticket as a support agent). Enter the clients scenario in the summary. Submit the ticket. Note: The email being used is fake and only for this tutorial.
 </p>
 <br />
 
