@@ -91,7 +91,7 @@ Open the most recent ticket. Observe the properties of the ticket (Priority, Dep
 <h2></h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/ed64ca16-2289-4b49-a5d0-9ac7bc307dd6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ed64ca16-2289-4b49-a5d0-9ac7bc307dd6" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img height="80%" width="80%" alt="Disk Sanitization Steps"/>
