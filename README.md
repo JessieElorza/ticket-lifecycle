@@ -84,7 +84,20 @@ In the Admin login (http://localhost/osTicket/scp/login.php) we are going to log
 <img src="https://github.com/user-attachments/assets/8cc7a793-b995-4902-9ac5-19ba057a7b70" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open the most recent ticket. Observe the properties of the ticket (Priority, Department, SLA, etc.). Notice john is in "read only" mode and can't do much except make an internal note. Feel free to leave a note, but its not necessary for the rest of this scenario.
+Open the most recent ticket. Observe the properties of the ticket (Priority, Department, SLA, etc.). Notice john is in "read only" mode and can't do much except make an internal note. Feel free to leave a note, but its not necessary for the rest of this scenario. We now want to give John permissions to do more with the ticket so log out for now and we'll log back in as adminuser to upgrade John's access.
+</p>
+<br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/ed64ca16-2289-4b49-a5d0-9ac7bc307dd6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
 
