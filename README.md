@@ -39,6 +39,8 @@ Begin by navigating to Admin Panel -> Agents -> Departments. Check Departments a
 </p>
 <br />
 
+<h2></h2>
+
 <p>
 <img src="https://github.com/user-attachments/assets/8e1c8371-53ed-4c4e-aa69-a422f765d05b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -46,14 +48,28 @@ Begin by navigating to Admin Panel -> Agents -> Departments. Check Departments a
 osTicket support ticket URL: http://localhost/osTicket/
 </p>
 <p>
-Open a new page for the end users. osTicket support ticket URL: http://localhost/osTicket/. Once link is copied and pasted into the URL in the virtual machine it will direct you to the end users ticket creation page for clients. Click Open a New Ticket.
+Open a new page for the end users. Once link is copied and pasted into the URL in the virtual machine it will direct you to the end users ticket creation page for clients. Click Open a New Ticket.
 </p>
 <br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/670560fc-6a18-4f1f-a81a-f06ab51a8b27" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the creation of the new ticket I will use a fake end user called "karen". In the ticket as karen select the help topic as "General Inquiry / Other" (It should be business critical outage, but it will be adjusted when observing the ticket as a support agent). Enter the clients scenerio in the summary. Submit the ticket. Note: The email being used is fake and only for this tutorial.
+</p>
+<br />
+
+<h2></h2>
 
 <p>
 <img height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
+
+<h2></h2>
