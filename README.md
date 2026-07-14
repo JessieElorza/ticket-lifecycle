@@ -32,6 +32,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/a189fca3-89ca-452b-bf02-f825cb5a9132" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<img src="https://github.com/user-attachments/assets/b6187d73-61e1-4f59-bfbd-02e757d8e728" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
+<p>
 Begin by navigating to Admin Panel -> Agents -> Departments. Check Departments and Delete the Maintenance Department. This will ensure ticket flow and visibility and that tickets won't be routed to an unused department.
 </p>
 <br />
