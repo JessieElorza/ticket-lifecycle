@@ -127,7 +127,7 @@ This issue needs someone else to work on it to ensure the issue is handled corre
 <img src="https://github.com/user-attachments/assets/5db5177c-0109-41a6-a652-2c1fc4014214" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logout as john and login as Jane, the account we created in the prior tutorial. Open the ticket that was worked on by john. Observe you can see everything that john did in the ticket thread before the ticket was transferred.
+Logout as john and login as Jane, the account we created in the prior tutorial. Open the ticket that was worked on and transferred to you by john. You can observe everything that john did in the ticket thread before the ticket was transferred.
 </p>
 <br />
 
