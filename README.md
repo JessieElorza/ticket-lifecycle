@@ -140,7 +140,17 @@ Logout as john and login as Jane, the account we created in the prior tutorial. 
 <img src="https://github.com/user-attachments/assets/dee2d6c8-ca66-47a8-a56a-fad58782960a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As jane we need to investigate and troubleshoot the issue, provide updates to the client user and team, resolve and close the ticket. I left 2 replies as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".
+As jane we need to investigate and troubleshoot the issue, provide updates to the client user, and team, resolve and close the ticket. I left 2 replies as "Jane" as she worked with the team and client through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".
+</p>
+<br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/d330f9d7-915d-4d28-8a0e-cf2f21c731c4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
 
