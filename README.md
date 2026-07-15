@@ -41,7 +41,7 @@ Begin by navigating to Admin Panel -> Agents -> Departments. Check Departments a
 
 <h2></h2>
 
-### Ticket #1
+### Ticket #1 : Karen
 
 <br />
 <p>
@@ -159,6 +159,9 @@ After a quick follow up with the client, confirmation of the issue being resolve
 
 <h2></h2>
 
+### Ticket #2 : Ken
+
+<br />
 <p>
 height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -169,13 +172,22 @@ height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2></h2>
 
-### Ticket #2
+<p>
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
-<br />
-<p>
-<img src="https://github.com/user-attachments/assets/d330f9d7-915d-4d28-8a0e-cf2f21c731c4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-After a quick follow up with the client, confirmation of the issue being resolved is confirmed by Karen and all systems are running smoothly. The ticket is completed and wechanged the status of the ticket from "Resolved" to "Closed".
 </p>
 <br />
+
+<h2></h2>
+
+<p>
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<h2></h2>
