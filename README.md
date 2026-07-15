@@ -195,5 +195,5 @@ John acknowledged the users issue and provided a assessment. John worked through
 ### End Of Project
 
 <p>
-This project demonstrates the work flow of a ticket. End-users send in a ticket that is then worked through with agents. Agents modify the ticket with SLAs, Departments, Priority, and who it's assigned to for efficent solutions and good customer experience. This concludes the end of my osTicket project.
+This project demonstrates the work flow of a ticket. End-users send in a ticket that is then worked through with agents. Agents modify the ticket with SLAs, Departments, Priority, and who it's assigned to for efficent solutions and good customer experience. This concludes the end of my osTicket project and demonstrates knowledge and skills using necessary software for the help desk role and proper etiquette in the workplace and all of the osTicket functions.
 </p>
