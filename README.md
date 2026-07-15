@@ -102,3 +102,23 @@ We now want to give John permissions to do more with the ticket. In the Admin Lo
 <br />
 
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/944c8794-f7bc-4eff-a912-5e79764619f3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Login back as john and view the ticket again. Notice you can change and modify the ticket. Update the Priority from "Normal" to "Emergency" as the entire banking system being down is a big issue and needs to be dealt with right away. Update SLA to "Sev-A" (Sev-A is 1 hour, 24/7) because its urgent and needs to be completed ASAP. Update help topic from "General Inquiry / Other" to "Business Critical Outage".
+</p>
+<br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/a161859c-1a34-4143-a298-0ef8ee4de3a6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This issue needs someone else to work on it to ensure the issue is handled correctly. Change the "Assigned to" to "Jane Doe" and Transfer the ticket to the Department of "SysAdmins". With the way Johns permissions are setup he will no longer have access to the ticket.
+</p>
+<br />
+
+<h2></h2>
