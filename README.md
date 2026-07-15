@@ -40,7 +40,9 @@ Begin by navigating to Admin Panel -> Agents -> Departments. Check Departments a
 <br />
 
 <h2></h2>
+
 ### Ticket #1
+
 <br />
 <p>
 <img src="https://github.com/user-attachments/assets/8e1c8371-53ed-4c4e-aa69-a422f765d05b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -168,6 +170,7 @@ height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2></h2>
 
 ### Ticket #2
+
 <br />
 <p>
 <img src="https://github.com/user-attachments/assets/d330f9d7-915d-4d28-8a0e-cf2f21c731c4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
