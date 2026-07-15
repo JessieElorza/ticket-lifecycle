@@ -153,7 +153,7 @@ As jane we need to investigate and troubleshoot the issue, provide updates to th
 <img src="https://github.com/user-attachments/assets/d330f9d7-915d-4d28-8a0e-cf2f21c731c4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After a quick follow up with the client, confirmation of the issue being resolved is confirmed by Karen and all systems are running smoothly. The ticket is completed and wechanged the status of the ticket from "Resolved" to "Closed".
+After a quick follow up with the client, confirmation of the issue being resolved is confirmed by Karen and all systems are running smoothly. The ticket is completed and we changed the status of the ticket from "Resolved" to "Closed".
 </p>
 <br />
 
@@ -163,31 +163,39 @@ After a quick follow up with the client, confirmation of the issue being resolve
 
 <br />
 <p>
-height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9662df24-7640-4104-ba79-1afffdfb5b87" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Navigate to http://localhost/osTicket/ in the URL again to open a new ticket as a end-user. Using a end-user called "Ken" we made in the prior tutorial. Create a ticket that Adobe Reader is not working with the help topic being labeled as "Personal Computer Issue". Create the ticket.
 </p>
 <br />
 
 <h2></h2>
 
 <p>
-height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/abe9b026-374f-4c41-9cc2-ac75e46ca563" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+In the Admin login page login as "john" and observe the ticket and its properties (SLA, Priority, Department etc.). Updated Priority to High. Updated the SLA Plan to Sev-B (4 hours, 24/7) as its somewhat urgent to get done. John leaves a reply updating the end-user on what's going on.
 </p>
 <br />
 
 <h2></h2>
 
 <p>
-height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9bffed2a-a81d-4500-8bf2-95d92a8afdea" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+John acknowledged the users issue and provided a assessment. John worked through the problem and troubleshooted and found a solution. Communicated the plan to perform the solution. Being Honest and keeping the end-user updated to ensure a good experience and solution. Once the issue is resolved the end-user verified and john can now close the ticket.
 </p>
 <br />
 
 <h2></h2>
+
+### End Of Project
+
+<h2></h2>
+
+<p>
+This project demonstrates the work flow of a ticket. End-users send in a ticket that is then worked through with agents. Agents modify the ticket with SLAs, Departments, Priority, and who it's assigned to for efficent solutions and good customer experience. This concludes the end of my osTicket project.
+</p>
