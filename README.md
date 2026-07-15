@@ -107,7 +107,7 @@ We now want to give John permissions to do more with the ticket. In the Admin Lo
 <img src="https://github.com/user-attachments/assets/944c8794-f7bc-4eff-a912-5e79764619f3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login back as john and view the ticket again. Notice you can change and modify the ticket. Update the Priority from "Normal" to "Emergency" as the entire banking system being down is a big issue and needs to be dealt with right away. Update SLA to "Sev-A" (Sev-A is 1 hour, 24/7) because its urgent and needs to be completed ASAP. Update help topic from "General Inquiry / Other" to "Business Critical Outage".
+Login back as john and view the ticket again. Notice you can change and modify the ticket. Update the Priority from "Normal" to "Emergency" as the entire banking system being down is a big issue and needs to be dealt with right away. Update SLA to "Sev-A" (Sev-A is 1 hour, 24/7) because it's urgent and needs to be completed ASAP. Update help topic from "General Inquiry / Other" to "Business Critical Outage" to catergorize the situation more aptly and communicate to the team precisely the severity of the situation and to cause less confusion about the issue.
 </p>
 <br />
 
@@ -117,7 +117,7 @@ Login back as john and view the ticket again. Notice you can change and modify t
 <img src="https://github.com/user-attachments/assets/a161859c-1a34-4143-a298-0ef8ee4de3a6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This issue needs someone else to work on it to ensure the issue is handled correctly. Change the "Assigned to" to "Jane Doe" and Transfer the ticket to the Department of "SysAdmins". With the way Johns permissions are setup he will no longer have access to the ticket.
+This issue needs someone else to work on it to ensure the issue is handled correctly. Change the "Assigned to" to "Jane Doe" and Transfer the ticket to the Department of "SysAdmins". With the way Johns permissions are setup he will no longer have access to the ticket but all his contributions will still be visible.
 </p>
 <br />
 
@@ -140,7 +140,7 @@ Logout as john and login as Jane, the account we created in the prior tutorial. 
 <img src="https://github.com/user-attachments/assets/dee2d6c8-ca66-47a8-a56a-fad58782960a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As jane we need to investigate and troubleshoot the issue, provide updates to the client user, resolve and close the ticket. I left 2 replies as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".
+As jane we need to investigate and troubleshoot the issue, provide updates to the client user and team, resolve and close the ticket. I left 2 replies as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".
 </p>
 <br />
 
