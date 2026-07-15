@@ -11,12 +11,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
 - Internet Information Services (IIS)
+- Windows server
+- Windows 11
 - osTicket
 
 <h2>Operating Systems Used </h2>
 
 - Windows 11(Desktop)
-- Windows 11</b> (25H2)
+- Windows 11</b> (25H2) (Virtual Machine)
 
 <h2>Ticket Lifecycle Stages</h2>
 
