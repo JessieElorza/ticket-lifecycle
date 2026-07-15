@@ -122,3 +122,26 @@ This issue needs someone else to work on it to ensure the issue is handled corre
 <br />
 
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/5db5177c-0109-41a6-a652-2c1fc4014214" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Logout as john and login as Jane, the account we created in the prior tutorial. Open the ticket that was worked on by john. Observe you can see everything that john did in the ticket thread before the ticket was transferred.
+</p>
+<br />
+
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/9934626c-89ec-459a-b159-8c70e9be6d41" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/dee2d6c8-ca66-47a8-a56a-fad58782960a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As jane we need to investigate and troubleshoot the issue, provide updates to the client user, resolve and close the ticket. I left 2 replies as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".
+</p>
+<br />
+
+<h2></h2>
